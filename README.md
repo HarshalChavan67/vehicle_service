@@ -1,4 +1,5 @@
-# 🚗 Vehicle Service Management System
+# 🚗 Vehicle Service Management System  
+### ⚡ Full-Stack Web App for Automating Vehicle Service Operations
 
 ## 📌 Overview
 
@@ -6,19 +7,28 @@ This is a web-based **Vehicle Service Management System** developed using PHP, H
 It helps users to book vehicle services, manage requests, and track service status efficiently.
 
 ---
+## 💡 Problem Statement
+Traditional vehicle service centers rely on manual booking and tracking systems.  
+This project digitizes the workflow, improving efficiency and customer experience.
+## 
 
-## ✨ Features
+✨ Features
 
-* 🔧 Book vehicle service requests
-* 📋 Manage service records
-* 👨‍💼 Admin panel for managing users and services
-* 📦 Upload and manage service-related data
-* 📊 Organized database structure
+- 📝 Online vehicle service booking system  
+- 🔄 Real-time service request tracking  
+- 👨‍🔧 Admin dashboard for managing mechanics & services  
+- 📊 Service records and status management  
+- 📦 Organized database and file handling
+---
 
+## 🚀 Why This Project Stands Out
+- Full-stack implementation (Frontend + Backend + Database)  
+- Real-world business use case  
+- Scalable modular structure  
+- Demonstrates CRUD operations and system design
 ---
 
 ## 🛠️ Tech Stack
-
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
 * **Database:** MySQL
@@ -73,7 +83,7 @@ vehicle_service/
 Access admin panel:
 
 ```
-http://localhost/phpmyadmin/index.php?route=/database/structure&db=vehicle_service_db
+URL: http://localhost/vehicle_service/admin
 ```
 
 ---
@@ -97,9 +107,11 @@ http://localhost/phpmyadmin/index.php?route=/database/structure&db=vehicle_servi
 ## 👨‍💻 Author
 
 **Harshal Chavan**
+🔗 GitHub: https://github.com/HarshalChavan67
 
 ---
 
 ## ⭐ Note
 
 This project is for learning and academic purposes.
+🚧 Live demo coming soon
